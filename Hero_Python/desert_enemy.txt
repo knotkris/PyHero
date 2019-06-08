@@ -1,0 +1,5 @@
+name : Gerp, type : warrior;
+name : Bert, type : warrior;
+name : Tweet, type : theif;
+name : Badoof, type : sorceress;
+name : Mags, type : knight

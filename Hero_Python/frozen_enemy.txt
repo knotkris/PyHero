@@ -1,0 +1,5 @@
+name : Theifer, type : theif;
+name : Thefter, type : theif;
+name : Bertrude, type : warrior;
+name : Caboodle, type : knight;
+name : Kit, type : warrior
